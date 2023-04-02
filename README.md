@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Alfredo Boaglio. I am a junior Full-stack programmer with a passion for backend development. My commitment is always to create memorable user solutions and experiences.</h1>
 <h3 align="center">I'm from Argentina. Native Spanish</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [linkedin](https://www.linkedin.com/in/gabriel-boaglio/)</h3>
 <p align="left">
 </p>
 
