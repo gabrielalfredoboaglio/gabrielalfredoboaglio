@@ -45,8 +45,8 @@ Apasionado por la automatización, la infraestructura como código y la cultura 
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielalfredoboaglio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalfredoboaglio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ---
@@ -63,14 +63,6 @@ Apasionado por la automatización, la infraestructura como código y la cultura 
 
 ---
 
-## 🏆 Certificaciones
-
-- 🎓 AWS Certified Solutions Architect
-- 🎓 Certified Kubernetes Administrator (CKA)
-- 🎓 HashiCorp Certified: Terraform Associate
-- 🎓 [Agrega tus certificaciones aquí]
-
----
 
 ## 📫 Conectemos
 
