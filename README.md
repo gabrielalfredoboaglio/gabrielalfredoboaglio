@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Gabriel]
+# 👋 ¡Hola! Soy Gabriel
 
 ### 🚀 DevOps Engineer | Automatización | CI/CD | Cloud Infrastructure
 
