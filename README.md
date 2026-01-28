@@ -44,7 +44,6 @@ Apasionado por la automatización, la infraestructura como código y la cultura 
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielalfredoboaglio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalfredoboaglio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
@@ -66,7 +65,7 @@ Apasionado por la automatización, la infraestructura como código y la cultura 
 ## 📫 Conectemos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-boaglio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielalfredoboagliol@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielalfredoboaglio@gmail.com)
 
 ---
 
